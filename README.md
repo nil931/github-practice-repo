@@ -12,3 +12,4 @@ Wow, it is wonderfull!
 
 1. Open index.html in the browser.
 2. Save hello world.
+3. Do a Project
